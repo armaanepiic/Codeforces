@@ -1,3 +1,5 @@
+https://codeforces.com/contest/1535/problem/A
+
 //Bismillahir rahmanir rahim
 //Arman Hossain C193033
 //Programming is nothing but an addiction.
